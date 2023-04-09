@@ -1,15 +1,17 @@
 # TODO List
 
-Proyecto creado con create-react-app 
+Lista de pendientes (TODOs) creada con create-react-app 
 
 ## Scripts
 
-In the project directory, you can run:
+Comandos:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Corre la aplicacion en local host.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Esta aplicacion es dinamica, los cambios realizados tomaran efecto inmediatamente.
+
+## 🛠 Lenguajes
+HTML, CSS, JavaScript, React.js
